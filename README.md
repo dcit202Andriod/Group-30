@@ -10,6 +10,8 @@ Uses Realm Db's client side to store the notes on the Phone's local storage
 
 Allows the user to quickly develop structures of text 
 
+Text formatting capabilities such as bolding and italicizing of text.
+
 ## Tech Stack
 
 **IDE**: Android Studio
