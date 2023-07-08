@@ -14,7 +14,7 @@
         android:contentDescription="@string/notely"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="150dp"
-        android:src="@drawable/Main"
+        android:src="@drawable/main"
         />
 
     <TextView
