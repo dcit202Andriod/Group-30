@@ -33,7 +33,7 @@ Text formatting capabilities such as bolding and italicizing of text.
 - [@AmoakoDomson](https://github.com/AmoakoDomson) **Software Tester**10949319
 - [@JosephAwuku33](https://github.com/JosephAwuku33) **Software Engineer** 10988964
 
-  ## Screenshots 
-  These are the screenshots for the app's interface
-  <img src="https://github.com/dcit202Andriod/Group-30/blob/master/app/src/main/res/drawable/Screenshots/screen1.jpeg" width="320"   
-   height="640"/>
+## Screenshots 
+These are the screenshots for the app's interface
+<br/>
+<img src="https://github.com/dcit202Andriod/Group-30/blob/master/app/src/main/res/drawable/Screenshots/screen1.jpeg" width="320" height="640"/>
