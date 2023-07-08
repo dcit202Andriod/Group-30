@@ -46,3 +46,7 @@ These are the screenshots for the app's interface
 <img src="https://github.com/dcit202Andriod/Group-30/blob/master/app/src/main/res/drawable/Screenshots/screen3.jpeg" width="320" height="640"/>
 
 <br/>
+
+<img src="https://github.com/dcit202Andriod/Group-30/blob/master/app/src/main/res/drawable/Screenshots/screen4.jpeg" width="320" height="640"/>
+
+<br/>
