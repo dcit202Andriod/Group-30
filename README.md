@@ -2,7 +2,7 @@
 # Notely, A simple Notes App 
 ## Group 30 
 
-A simple Notes App for creating and editing sticky Notes made with Android Studio & Java
+A simple Notes App for creating and editing sticky Notes made with Android Studio & Java. 
 
 
 ## Features
