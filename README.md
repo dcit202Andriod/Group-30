@@ -37,3 +37,8 @@ Text formatting capabilities such as bolding and italicizing of text.
 These are the screenshots for the app's interface
 <br/>
 <img src="https://github.com/dcit202Andriod/Group-30/blob/master/app/src/main/res/drawable/Screenshots/screen1.jpeg" width="320" height="640"/>
+<br/>
+
+<img src="https://github.com/dcit202Andriod/Group-30/blob/master/app/src/main/res/drawable/Screenshots/screen2.jpeg" width="320" height="640"/>
+
+<br/>
