@@ -22,7 +22,7 @@ Text formatting capabilities such as bolding and italicizing of text.
 
 ## Members Of The Team
 
-- [@Carlton001](https://github.com/Carlton001) **Tech Lead**
+- [@Carlton001](https://github.com/Carlton001) **Tech Lead** 10968138
 - [@areyouagod23](https://github.com/areyouagod23) **Software Tester** 10956133
 - [@JULIUS001LARTEY](https://github.com/JULIUS001LARTEY) **Software Tester** 10985024
 - [@Emmanuel-tetteh]() **Software Engineer** 10968137
@@ -35,3 +35,5 @@ Text formatting capabilities such as bolding and italicizing of text.
 
   ## Screenshots 
   These are the screenshots for the app's interface
+  <img src="https://github.com/dcit202Andriod/Group-30/blob/master/app/src/main/res/drawable/Screenshots/screen1.jpeg" width="320"   
+   height="640"/>
