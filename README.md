@@ -31,4 +31,4 @@ Uses Realm Db's client side to store the notes on the Phone's local storage
 - [@JosephAwuku33](https://github.com/JosephAwuku33) **Software Engineer** 10988964
 
   ## Screenshots 
-
+  These are the screenshots for the app's interface
